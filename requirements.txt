@@ -1,3 +1,4 @@
 telethon
 telebot
 pyrogram
+sqlitedict
