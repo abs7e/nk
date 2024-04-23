@@ -1,0 +1,1 @@
+Procfileworker: python mybot.py
